@@ -552,9 +552,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dogPrefabs:
-  - {fileID: 4330896134450223243, guid: 0191a138baa73494aadc5595584872ea, type: 3}
-  - {fileID: 3766377415020952902, guid: fa96867955f850d49a2152fe98063c92, type: 3}
-  - {fileID: 8561396176969210241, guid: d819cb882c873594ab4b65cbce527660, type: 3}
+  - {fileID: 1384554246026337487, guid: fea269450532c2940bfe2814143faac8, type: 3}
+  - {fileID: 3206707798891537682, guid: 83ef20f903db2174397cdefb6d0a9447, type: 3}
+  - {fileID: 5817048271498752126, guid: 13dd5e7741556194989380546b44f61b, type: 3}
 --- !u!4 &1005362562
 Transform:
   m_ObjectHideFlags: 0
@@ -739,7 +739,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   xRange: 10
-  foodPrefab: {fileID: 1837301347462993724, guid: 62efbde1e395d604f8c38d56cbf4b10d, type: 3}
+  foodPrefab: {fileID: 7166690789682226417, guid: 9b03dfd3a9650784fb00af0b1a391e48, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

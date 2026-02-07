@@ -15,11 +15,12 @@ public class SpawnManager : MonoBehaviour
             {
                 Instantiate(dogPrefabs[index], new Vector3(x, 0, 20), Quaternion.Euler(0, 180, 0));
             }
+            else
+            {
+                Debug.LogWarning($"dog prefab {index} is null");
+            }
         }
-        else
-        {
-            Debug.LogWarning($"dog prefab {index} is null")
-        }
+        
 
     }
 }
